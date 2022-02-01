@@ -2,7 +2,7 @@
 
 <h1> I’m Eren Yildirir! </h1>
 
-Perception and Robotics Engineer at [Slip Robotics](https://sliprobotics.com/), with a MS-ECE in Systems & Control from Georgia Tech.
+Perception and Robotics Engineer with a MS-ECE in Systems & Control from Georgia Tech.
 
 Proficient in Networked Controls, Swarm Robotics, Stochastic Systems, Adaptive Controls.
 
